@@ -1,6 +1,16 @@
 <svg fill="none" viewBox="0 0 860 280" xmlns="http://www.w3.org/2000/svg">
-  <text font-family="Courier New, Courier, monospace" font-size="13" font-weight="bold" xml:space="preserve">
-    <animate attributeName="fill" values="#00eda3;#a8ffdf;#00eda3" dur="2.5s" repeatCount="indefinite"/>
+  <defs>
+    <style>
+      @keyframes pulse {
+        0%   { fill: #00eda3; }
+        50%  { fill: #a8ffdf; }
+        100% { fill: #00eda3; }
+      }
+      .ascii { animation: pulse 2.5s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <text class="ascii" font-family="Courier New, Courier, monospace" font-size="13" font-weight="bold" xml:space="preserve">
     <tspan x="30" dy="0" y="50">██████╗  ██████╗  ██████╗ ████████╗██████╗ ██╗███████╗███████╗</tspan>
     <tspan x="30" dy="18">██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██╔══██╗██║╚══███╔╝██╔════╝</tspan>
     <tspan x="30" dy="18">██████╔╝██║   ██║██║   ██║   ██║   ██████╔╝██║  ███╔╝ █████╗  </tspan>
