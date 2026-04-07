@@ -1,0 +1,19 @@
+<svg fill="none" viewBox="0 0 860 280" xmlns="http://www.w3.org/2000/svg">
+  <text font-family="Courier New, Courier, monospace" font-size="13" font-weight="bold" fill="#00eda3" xml:space="preserve">
+    <tspan x="30" dy="0" y="50">██████╗  ██████╗  ██████╗ ████████╗██████╗ ██╗███████╗███████╗</tspan>
+    <tspan x="30" dy="18">██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██╔══██╗██║╚══███╔╝██╔════╝</tspan>
+    <tspan x="30" dy="18">██████╔╝██║   ██║██║   ██║   ██║   ██████╔╝██║  ███╔╝ █████╗  </tspan>
+    <tspan x="30" dy="18">██╔══██╗██║   ██║██║   ██║   ██║   ██╔══██╗██║ ███╔╝  ██╔══╝  </tspan>
+    <tspan x="30" dy="18">██║  ██║╚██████╔╝╚██████╔╝   ██║   ██║  ██║██║███████╗███████╗</tspan>
+    <tspan x="30" dy="18">╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝</tspan>
+  </text>
+
+  <line x1="30" y1="172" x2="830" y2="172" stroke="#17a892" stroke-width="0.8" opacity="0.4"/>
+
+  <text font-family="Courier New, Courier, monospace" font-size="13" fill="#17a892" xml:space="preserve">
+    <tspan x="30" y="198">Hey, I'm ALPARSLAN 👋</tspan>
+    <tspan x="30" dy="20">I build things, break things, and root them again.</tspan>
+    <tspan x="30" dy="20">Focused on low-level systems, security, and creative development.</tspan>
+    <tspan x="30" dy="20">Always exploring how things actually work under the hood.</tspan>
+  </text>
+</svg>
